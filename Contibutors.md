@@ -18,4 +18,4 @@
 - Kuldeep Gautam [GitHub](https://github.com/kgautam01), [LinkedIn](https://www.linkedin.com/in/kgautam01/)
 - Kapil Gupta [Github](https://github.com/kapilbindal), [Linkedin](https://www.linkedin.com/in/kapilgupta15/)
 - Shreshta Sarkar [Github](https://github.com/dvlpsh), [Linkedin](https://www.linkedin.com/in/shreshta-sarkar-8a5979193/)
-
+- Adrija Biswas [Github](https://github.com/Audryadrija) [Linkedin](https://www.linkedin.com/in/adrija-biswas-627511194/)
